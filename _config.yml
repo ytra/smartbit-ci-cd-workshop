@@ -1,8 +1,8 @@
 # Site settings
 title: CI and CD with GitHub at DevOpsDays Amsterdam 2016
 description: A smartbit blog
-email: smartbit
-twitter_username: <none>
+email: smartbit@domain.com
+twitter_username: none
 github_username:  smartbit
 baseurl:
 url: https://smartbit-ci-cd-workshop.herokuapp.com
