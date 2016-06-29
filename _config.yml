@@ -1,11 +1,11 @@
 # Site settings
-title: CI and CD with GitHub
-description: A demo blog
-email: training@github.com
-twitter_username: githubtraining
-github_username:  githubteacher
+title: CI and CD with GitHub at DevOpsDays Amsterdam 2016
+description: A smartbit blog
+email: smartbit
+twitter_username: <none>
+github_username:  smartbit
 baseurl:
-url: https://githubteacher-ci-cd-workshop.herokuapp.com
+url: https://smartbit-ci-cd-workshop.herokuapp.com
 destination: site_content
 exclude: [ 'vendor' ]
 
